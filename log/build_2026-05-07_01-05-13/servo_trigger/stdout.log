@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating servo_trigger.egg-info
+writing servo_trigger.egg-info/PKG-INFO
+writing dependency_links to servo_trigger.egg-info/dependency_links.txt
+writing entry points to servo_trigger.egg-info/entry_points.txt
+writing requirements to servo_trigger.egg-info/requires.txt
+writing top-level names to servo_trigger.egg-info/top_level.txt
+writing manifest file 'servo_trigger.egg-info/SOURCES.txt'
+reading manifest file 'servo_trigger.egg-info/SOURCES.txt'
+writing manifest file 'servo_trigger.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/leekangteak/pyserial-test/install/servo_trigger/lib/python3.12/site-packages/servo-trigger.egg-link (link to .)
+Installing servo_trigger_node script to /home/leekangteak/pyserial-test/install/servo_trigger/lib/servo_trigger
+
+Installed /home/leekangteak/pyserial-test/build/servo_trigger
+running symlink_data
+creating /home/leekangteak/pyserial-test/install/servo_trigger/share/ament_index
+creating /home/leekangteak/pyserial-test/install/servo_trigger/share/ament_index/resource_index
+creating /home/leekangteak/pyserial-test/install/servo_trigger/share/ament_index/resource_index/packages
+symbolically linking /home/leekangteak/pyserial-test/build/servo_trigger/resource/servo_trigger -> /home/leekangteak/pyserial-test/install/servo_trigger/share/ament_index/resource_index/packages
+symbolically linking /home/leekangteak/pyserial-test/build/servo_trigger/package.xml -> /home/leekangteak/pyserial-test/install/servo_trigger/share/servo_trigger

@@ -1,0 +1,2 @@
+[console_scripts]
+servo_trigger_node = servo_trigger.servo_trigger_node:main

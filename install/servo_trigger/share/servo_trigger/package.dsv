@@ -1,0 +1,6 @@
+source;share/servo_trigger/hook/pythonpath.dsv
+source;share/servo_trigger/hook/pythonpath.sh
+source;share/servo_trigger/hook/ament_prefix_path.dsv
+source;share/servo_trigger/hook/ament_prefix_path.sh
+source;../../build/servo_trigger/share/servo_trigger/hook/pythonpath_develop.dsv
+source;../../build/servo_trigger/share/servo_trigger/hook/pythonpath_develop.sh
